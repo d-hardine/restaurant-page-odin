@@ -32,7 +32,7 @@ function aboutPage() {
     aboutTitle.textContent = 'About';
     aboutTitle.style.fontFamily = 'cursive';
     aboutTitle.style.fontSize = '3em';
-    aboutContent.textContent = 'Sumber Barokah restaurant is an authentic Indonesian cuisine restaurant and the one and only Indonesian restaurant that you can find in the Shadow Realm.';
+    aboutContent.textContent = 'Sumber Barokah restaurant is an authentic Indonesian cuisine restaurant and the one and only Indonesian restaurant that you can find in the Shadow Realm. asdasdasdasd';
     aboutContainer.appendChild(aboutTitle);
     aboutContainer.appendChild(aboutContent);
     aboutContainer.classList.add('about-content');
