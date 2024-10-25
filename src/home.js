@@ -26,7 +26,7 @@ function homePage() {
     //render text to home page
     const restaurantTagLine = document.createElement('div');
     restaurantTagLine.style.fontFamily = 'cursive', 'Helvetica';
-    restaurantTagLine.textContent = 'Taste the pleasure of authentic Indonesian cuisine, with ingredients and spices that can only be obtained in Indonesia, only at Sumber Barokah restaurant.';
+    restaurantTagLine.textContent = 'Taste the pleasure of authentic Indonesian cuisine, with ingredients and spices that can only be obtained in Indonesia, only at Sumber Barokah restaurant. Please come visit and taste it yourself.';
     home.appendChild(restaurantTagLine);
     restaurantTagLine.classList.add('home-content');
 }
